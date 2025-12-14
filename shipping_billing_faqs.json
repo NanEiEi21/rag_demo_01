@@ -1,0 +1,206 @@
+[
+  {
+    "question": "What shipping methods do you offer?",
+    "answer": "We offer standard shipping (3-7 business days), express shipping (1-3 business days), and overnight shipping for urgent deliveries. Shipping costs vary based on method and destination.",
+    "category": "Shipping",
+    "subcategory": "Shipping methods",
+    "tags": [
+      "shipping days",
+      "delivery methods"
+    ]
+  },
+  {
+    "question": "How much does shipping cost?",
+    "answer": "Shipping costs depend on your order total, shipping method, and destination. Standard shipping is free for orders over $50, otherwise it's $4.99. Express shipping costs $9.99, and overnight shipping is $19.99.",
+    "category": "Shipping",
+    "subcategory": "Shipping costs",
+    "tags": [
+      "costs",
+      "shipping expense"
+    ]
+  },
+  {
+    "question": "When will my order arrive?",
+    "answer": "Delivery times vary by shipping method. Standard shipping takes 3-7 business days, express shipping takes 1-3 business days, and overnight shipping delivers the next business day if ordered before 2 PM EST.",
+    "category": "Shipping",
+    "subcategory": "Delivery times",
+    "tags": [
+      "order checking",
+      "shipping methods",
+      "delivery times"
+    ]
+  },
+  {
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "Yes, you can change your shipping address within 2 hours of placing the order. Please contact customer service immediately with your order number and the updated address. After 2 hours, changes may not be possible.",
+    "category": "Shipping",
+    "subcategory": "Changing address",
+    "tags": [
+      "shipping address change",
+      "order update"
+    ]
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 50 countries. International shipping typically takes 7-21 business days depending on the destination. Additional customs fees or taxes may apply and are the customer's responsibility.",
+    "category": "Shipping",
+    "subcategory": "International shipping",
+    "tags": [
+      "shipping destination",
+      "overseas shipping"
+    ]
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using the tracking link in your shipping confirmation email, or log into your account and visit the \"Order History\" section. Tracking updates are provided by the carrier every 24 hours.",
+    "category": "Order",
+    "subcategory": "Tracking order",
+    "tags": [
+      "track order",
+      "order information",
+      "checking order information"
+    ]
+  },
+  {
+    "question": "Why is my order delayed?",
+    "answer": "Delays can occur due to weather conditions, carrier issues, customs processing, or incorrect address information. Please check your tracking number for detailed updates or contact our support team for assistance.",
+    "category": "Order",
+    "subcategory": "Delayed order",
+    "tags": [
+      "order check",
+      "order delayed information",
+      "order issues"
+    ]
+  },
+  {
+    "question": "What is your return shipping policy?",
+    "answer": "We offer free return shipping within 30 days of delivery for items in original condition. Return labels are available in your account under \"Order History.\" Refunds are processed within 5-10 business days after we receive the return.",
+    "category": "Shipping",
+    "subcategory": "Shipping policy",
+    "tags": [
+      "return policy",
+      "free return shipping"
+    ]
+  },
+  {
+    "question": "How do I update my billing information?",
+    "answer": "You can update your billing information by logging into your account, going to \"Payment Methods\" in your profile, and adding or editing your payment details. Changes take effect immediately for future orders.",
+    "category": "Billing",
+    "subcategory": "Update billing",
+    "tags": [
+      "billing information updates",
+      "amend customer information"
+    ]
+  },
+  {
+    "question": "When will my credit card be charged?",
+    "answer": "Your credit card is charged when your order ships. For pre-orders, a temporary authorization hold may appear on your card, but you're only charged when the item ships.",
+    "category": "Billing",
+    "subcategory": "Charging credit cards",
+    "tags": [
+      "charging",
+      "order charges"
+    ]
+  },
+  {
+    "question": "Can I use multiple payment methods?",
+    "answer": "Yes, you can split payment between multiple methods during checkout. After adding items to your cart, select \"Split Payment\" at checkout to use different credit cards or gift cards for the same order.",
+    "category": "Billing",
+    "subcategory": "Payment methods",
+    "tags": [
+      "multiple payment options",
+      "payment options",
+      "spliting payments options"
+    ]
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, MasterCard, American Express, Discover, PayPal, Apple Pay, Google Pay, and gift cards. All payment methods are processed securely through encrypted connections.",
+    "category": "Billing",
+    "subcategory": "Payment methods",
+    "tags": [
+      "secure payment options",
+      "accepting cards for purchase"
+    ]
+  },
+  {
+    "question": "Why was my payment declined?",
+    "answer": "Payment declines can occur due to insufficient funds, incorrect card details, expired cards, suspected fraud, or international transaction blocks. Please verify your payment information and contact your bank if needed.",
+    "category": "Payment",
+    "subcategory": "Payment Issues",
+    "tags": [
+      "payment declines",
+      "issues with payment"
+    ]
+  },
+  {
+    "question": "How do I get an invoice for my purchase?",
+    "answer": "Invoices are automatically generated with each purchase and can be accessed by logging into your account and navigating to \"Order History.\" You can also request a duplicate invoice by contacting customer service.",
+    "category": "Billing",
+    "subcategory": "Invoices",
+    "tags": [
+      "payment proof",
+      "order history"
+    ]
+  },
+  {
+    "question": "Can I get a refund for shipping costs?",
+    "answer": "Refunds for shipping costs are only provided if we made an error (like shipping to the wrong address) or if the order was canceled before shipping. Standard shipping refunds are not available for change of mind returns.",
+    "category": "Shipping",
+    "subcategory": "Refund",
+    "tags": [
+      "refund policy",
+      "shipping cost refund"
+    ]
+  },
+  {
+    "question": "What is your billing currency?",
+    "answer": "All charges are processed in US Dollars (USD). International customers may see charges in their local currency based on their bank's exchange rates, and additional conversion fees may apply from your bank.",
+    "category": "Shipping",
+    "subcategory": "Shipping currency",
+    "tags": [
+      "currency option",
+      "international customers payment"
+    ]
+  },
+  {
+    "question": "Do you offer installment payment plans?",
+    "answer": "Yes, we offer installment payment plans through Klarna and Afterpay for orders over $100. During checkout, select your preferred payment plan option to see available installment terms.",
+    "category": "Billing",
+    "subcategory": "Installment Plans",
+    "tags": [
+      "installment option",
+      "different payment plans"
+    ]
+  },
+  {
+    "question": "How can I cancel a subscription or recurring charge?",
+    "answer": "You can cancel subscriptions by logging into your account, going to \"Subscriptions,\" and selecting \"Cancel.\"For recurring charges not tied to a subscription, please contact customer service at least 48 hours before the next billing cycle.",
+    "category": "Subscription",
+    "subcategory": "Cancelling Subscription",
+    "tags": [
+      "recurring charges for subscription",
+      "avoid recurring charge"
+    ]
+  },
+  {
+    "question": "When will I receive my refund?",
+    "answer": "Refunds typically take 5-10 business days to appear on your account after we process the return. The exact timing depends on your bank or credit card company's processing speed.",
+    "category": "Purchase",
+    "subcategory": "Refund Policy",
+    "tags": [
+      "duration to get refund",
+      "refund process"
+    ]
+  },
+  {
+    "question": "Can I change my payment method for an existing order?",
+    "answer": "You can change the payment method for an order that hasn't shipped yet. Please contact customer service with your order number and new payment details. Once an order ships, payment method changes are not possible.",
+    "category": "Purchase",
+    "subcategory": "Amend Payment Method",
+    "tags": [
+      "payment method options",
+      "payment updates after order"
+    ]
+  }
+]
